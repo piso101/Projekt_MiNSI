@@ -1,8 +1,25 @@
-# Compiled class file
+# Compiled class and build files
 *.class
+out/
+bin/
+build/
+target/
 
 # Log file
 *.log
+
+# IDE configuration
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
 
 # BlueJ files
 *.ctxt

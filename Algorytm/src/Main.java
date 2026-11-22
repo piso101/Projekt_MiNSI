@@ -51,11 +51,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        // piotr: a280, eil101
-        // String fileName1 = "a280.tsp";
-        // String fileName2 = "eil101.tsp";
-
-        // oskar: kroA100, lin318
         String fileName1 = "lin318.tsp";
         String fileName2 = "kroA100.tsp";
 
